@@ -1,0 +1,6 @@
+{
+  "block.minorator.minorator": "Minorator",
+  "message.minorator.fuel_added": "Added %s fuel. Place a hopper underneath to collect resources.",
+  "message.minorator.fuel_full": "Fuel slot is full or contains a different fuel. Sneak-use with an empty hand to retrieve it.",
+  "message.minorator.status": "Fuel: %s item(s) | Burn remaining: %ss | Production: %s/20s"
+}

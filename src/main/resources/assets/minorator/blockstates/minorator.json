@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "minorator:block/minorator" },
+    "lit=true": { "model": "minorator:block/minorator_on" }
+  }
+}

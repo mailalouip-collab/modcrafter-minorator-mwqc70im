@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="minorator"
+version="1.0.0"
+displayName="Minorator"
+authors="Minorator Contributors"
+description='''
+A coal-powered resource generator. Supply coal from above or the sides, and collect iron, coal, gold, and diamonds with a hopper underneath.
+'''
+
+[[dependencies.minorator]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.172,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.minorator]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"

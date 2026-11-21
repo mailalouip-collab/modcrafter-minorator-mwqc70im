@@ -1,0 +1,6 @@
+{
+  "parent": "minorator:block/minorator",
+  "textures": {
+    "north": "minecraft:block/furnace_front_on"
+  }
+}
